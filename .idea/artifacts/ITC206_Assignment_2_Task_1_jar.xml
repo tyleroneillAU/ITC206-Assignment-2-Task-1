@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ITC206-Assignment-2-Task-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ITC206_Assignment_2_Task_1_jar</output-path>
+    <root id="archive" name="ITC206-Assignment-2-Task-1.jar">
+      <element id="module-output" name="ITC206-Assignment-2-Task-1" />
+    </root>
+  </artifact>
+</component>
